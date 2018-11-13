@@ -18,4 +18,3 @@ def update():
         alien.x -= 2
     if keyboard[keys.RIGHT] and alien.right < WIDTH:
         alien.x += 2
-    
